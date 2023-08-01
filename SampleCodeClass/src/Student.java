@@ -3,6 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+/*Hehe XD
+*/
 
 /**
  *
@@ -41,5 +43,10 @@ public class Student {
 	void myTest(){
 
 }
+
+    void abc()
+    {
+        
+    }
 
 }
