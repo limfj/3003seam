@@ -39,8 +39,4 @@ public class Student {
      return;
 }
 
-void ababaabababa(){
-	//THIS IS A STUB
-	}
-
 }
