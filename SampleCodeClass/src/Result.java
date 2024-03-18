@@ -34,7 +34,9 @@ public class Result {
         System.out.println("Testing");
     }
 
-    void myTest(){
+    int countAll() { return 0; }
+
+    void sen(){
         System.out.println("Testing");
     }
 
