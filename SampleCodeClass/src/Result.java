@@ -30,9 +30,6 @@ public class Result {
      		return;
 	}
 	
-    void danielChong(){
-        System.out.println("Testing");
-    }
 
     int countAll() { return 0; }
 
