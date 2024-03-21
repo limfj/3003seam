@@ -41,14 +41,17 @@ void mkDASHABI()
      		return;
 	}
 	
-    void danielChong(){
-        System.out.println("Testing");
-    }
+
+
+    int countAll() { return 0; }
+
+    void sen(){
 
 
     void kxiangTest();
 
     void myTest(){
+
         System.out.println("Testing");
     }
 
