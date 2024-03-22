@@ -4,7 +4,7 @@ public class Result {
     int RE;
     int SDA;
     int SQAT;
-
+    int fm;
     {
         return (RE+SDA+SQAT+SEAM+FM);
     }
